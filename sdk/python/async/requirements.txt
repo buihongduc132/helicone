@@ -853,18 +853,15 @@ propcache==0.2.0 ; python_full_version >= "3.11.0" and python_version < "4" \
     --hash=sha256:fa1076244f54bb76e65e22cb6910365779d5c3d71d1f18b275f1dfc7b0d71b4d \
     --hash=sha256:fc2db02409338bf36590aa985a461b2c96fce91f8e7e0f14c50c5fcc4f229016 \
     --hash=sha256:ffcad6c564fe6b9b8916c1aefbb37a362deebf9394bd2974e9d84232e3e08504
-protobuf==4.25.5 ; python_full_version >= "3.11.0" and python_version < "4" \
-    --hash=sha256:0aebecb809cae990f8129ada5ca273d9d670b76d9bfc9b1809f0a9c02b7dbf41 \
-    --hash=sha256:4be0571adcbe712b282a330c6e89eae24281344429ae95c6d85e79e84780f5ea \
-    --hash=sha256:5e61fd921603f58d2f5acb2806a929b4675f8874ff5f330b7d6f7e2e784bbcd8 \
-    --hash=sha256:7a183f592dc80aa7c8da7ad9e55091c4ffc9497b3054452d629bb85fa27c2a45 \
-    --hash=sha256:7f8249476b4a9473645db7f8ab42b02fe1488cbe5fb72fddd445e0665afd8584 \
-    --hash=sha256:919ad92d9b0310070f8356c24b855c98df2b8bd207ebc1c0c6fcc9ab1e007f3d \
-    --hash=sha256:98d8d8aa50de6a2747efd9cceba361c9034050ecce3e09136f90de37ddba66e1 \
-    --hash=sha256:abe32aad8561aa7cc94fc7ba4fdef646e576983edb94a73381b03c53728a626f \
-    --hash=sha256:b0234dd5a03049e4ddd94b93400b67803c823cfc405689688f59b34e0742381a \
-    --hash=sha256:b2fde3d805354df675ea4c7c6338c1aecd254dfc9925e88c6d31a2bcb97eb173 \
-    --hash=sha256:fe14e16c22be926d3abfcb500e60cab068baf10b542b8c858fa27e098123e331
+protobuf==7.34.0rc1 ; python_full_version >= "3.11.0" and python_version < "4" \
+    --hash=sha256:063194f132c92892dd271e9e77fc9651c84c56a486bb6e7657b99dde8462d3a5 \
+    --hash=sha256:2250a68501df3e9381710e199771523056d442a1df1edeb3829d29e970224f68 \
+    --hash=sha256:2af017361d9ff1b52a4fe933fccf36bd5e453e3ef855dc66426ea03a006ad426 \
+    --hash=sha256:5ceac3c2c428bfa5752b28082849fd9003db613b6c90305ec14bad6036a2d717 \
+    --hash=sha256:74386406345f4d869da4a7906605a04295c1c904787992fb686ac321c9def6c3 \
+    --hash=sha256:7b42643d5ce4a9133084eec057d781e5e966b52bab68b9fdc6d7226384be931a \
+    --hash=sha256:8c3c66f15e1035919bd105293d18c694986a7496ca105a1035a455da7b7958d2 \
+    --hash=sha256:d88119bf98ae532c2e92168471ddf2fdb3f3d3e58bf236be0c2af375d2b1b4d1
 pydantic-core==2.23.4 ; python_full_version >= "3.11.0" and python_version < "4" \
     --hash=sha256:0a7df63886be5e270da67e0966cf4afbae86069501d35c8c1b3b6c168f42cb36 \
     --hash=sha256:0cb3da3fd1b6a5d0279a01877713dbda118a2a4fc6f0d821a57da2e464793f05 \
